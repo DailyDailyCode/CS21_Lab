@@ -541,12 +541,16 @@ ul.sponsors {
 	font-weight: normal;
 }
 
-#footer a img {
-	margin-top: 40px;
+.span5 {
+	float: left;
 }
 
+.span6 {
+	float: right;
+}
 #footer p,
 #footer address {
 	color: #8F8F8F;
 	font-size: 11px;
+	text-align: center;
 }
